@@ -41,6 +41,8 @@ https://legendary-open-e74.notion.site/3e326b452edf46f88d4164ff16fea79b
 ### 참고자료
 시각장애인 인구수(그래프)
 시도별 장애유형별 장애 등급별 성별 등록 장애인 수
+![blind_population](https://user-images.githubusercontent.com/94502284/171816975-b4d0aa49-b0b2-4da0-a60b-610aaae013d3.png)
+
 https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11761_N004&conn_path=I2
 장애별 일상생활 도움 필요 정도
 https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11732S0110&conn_path=I2
